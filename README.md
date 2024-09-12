@@ -17,6 +17,29 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Zeeshan;I'm+Software+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
     
 
+📫 How to reach me *imerzeeshan@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/imerzeeshan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/imerzeeshan" height="30" width="40" />
+</a>
+    
+<a href="https://www.linkedin.com/in/imerzeeshan/" target="_blank" >
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"                     alt="https://www.linkedin.com/in/md-najeebur-rahman/" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/imerzeeshan/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imerzeeshan/" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/profile/imerzeeshan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/imerzeeshan" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/imerzeeshan/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/imerzeeshan/" height="30" width="40" />
+</a>
+</p>
     
 # 🖥️ Technical Skills: 
 <p align="left">
@@ -136,8 +159,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imerzeeshan&theme=radical&_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=imerzeeshan&theme=radical&_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imerzeeshan&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imerzeeshan&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
