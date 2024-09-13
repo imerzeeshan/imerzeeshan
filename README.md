@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 🔭 I’m currently learning MERN Stack Web Development<br> 
 💬 Ask me about Web Development<br>
 ⚡ Fun fact - I am lazy but smart<br>
+⚡ I love creating new things 
+🚀 Turning imagination into reality 
 📫 How to reach me imerzeeshan@gmail.com
-<p align="left">I love creating new things ⚡</p>
-<p align="left">Turning imagination into reality 🚀</p>
 <!--👯 I’m looking to collaborate on Web Application<br>🤝 I’m looking for help with developing a chrome extension that can find Playwright locators<br>🌱 I’m currently learning chrome extension manifest v3 & flutter<br>-->
 
 
@@ -172,17 +172,32 @@ Here are some ideas to get you started:
 
 
 
-# 📊 GitHub Stats:
+## Current GitHub Stats 📊:
 ![](https://github-readme-stats.vercel.app/api?username=imerzeeshan&theme=radical&_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imerzeeshan&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+## GitHub Streaks 🔥
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imerzeeshan&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imerzeeshan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## Latest Tweet 🐦  
+[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=jolly&response=false)](https://github.com/imerzeeshan/github-twitter-card-embed)
+> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
+
+### Thanks for Visiting my GitHub Profile!
+---
+<p align="center">
+<img src="https://github.com/imerzeeshan/imerzeeshan/blob/main/github-contribution-grid-snake.svg">
+</p>
 
 ---
   <!--## 💰 You can help me by Donating
