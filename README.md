@@ -12,20 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Zeeshan;I'm+Software+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
 # 💫 About Zeeshan:
 🔭 I’m currently learning MERN Stack Web Development<br> 
 💬 Ask me about Web Development<br>
 ⚡ Fun fact - I am lazy but smart<br>
-⚡ I love creating new things 
-🚀 Turning imagination into reality 
+⚡ I love creating new things<br>
+🚀 Turning imagination into reality<br> 
 📫 How to reach me imerzeeshan@gmail.com
 <!--👯 I’m looking to collaborate on Web Application<br>🤝 I’m looking for help with developing a chrome extension that can find Playwright locators<br>🌱 I’m currently learning chrome extension manifest v3 & flutter<br>-->
 
 
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Zeeshan;I'm+Software+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
     
 
 <h3 align="left">Connect with me:</h3>
@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 
 <h3 align="left">Coding Platforms:</h3>
 <p align="left">
+<a href="https://www.hackerrank.com/profile/imerzeeshan" target="_blank"><img alt="" src="https://img.shields.io/badge/Hackerrank-000?style=for-the-badge&logo=Hackerrank&logoColor=success" style="vertical-align:center" /></a>
+<a href="https://leetcode.com/u/imerzeeshan/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?style=for-the-badge&logo=Leetcode&logoColor=orange" style="vertical-align:center" /></a>
+<a href="https://www.geeksforgeeks.org/user/imerzeeshan/" target="_blank"><img alt="" src="https://img.shields.io/badge/Geeksforgeeks-000?style=for-the-badge&logo=Geeksforgeeks&logoColor=success" style="vertical-align:center" /></a>
+<a href="https://www.naukri.com/code360/profile/imerzeeshan" target="_blank"><img alt="" src="https://img.shields.io/badge/Codingninja-000?style=for-the-badge&logo=Codingninjas&logoColor=orange" style="vertical-align:center" /></a>
+<a href="https://www.hackerearth.com/@imerzeeshan/" target="_blank"><img alt="" src="https://img.shields.io/badge/Hackerearth-000?style=for-the-badge&logo=Hackerearth&logoColor=white" style="vertical-align:center" /></a>
 
-<a href="https://www.hackerrank.com/profile/imerzeeshan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/imerzeeshan" height="30" width="40" />
-</a>
 
-<a href="https://leetcode.com/u/imerzeeshan/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/imerzeeshan/" height="30" width="40" />
-</a>
+
 </p>
     
 # 🖥️ Technical Skills: 
@@ -209,4 +209,4 @@ Here are some ideas to get you started:
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/imerzeeshan.imerzeeshan.svg)
+[![](https://visitcount.itsvg.in/api?id=imerzeeshan&pretty=true)](https://visitcount.itsvg.in)
