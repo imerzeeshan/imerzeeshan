@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🔭 I’m currently learning MERN Stack Web Development<br> 
 💬 Ask me about Web Development<br>
 ⚡ Fun fact - I am lazy but smart<br>
-⚡ I love creating new things<br>
+💖 I love creating new things<br>
 🚀 Turning imagination into reality<br> 
 📫 How to reach me imerzeeshan@gmail.com
 <!--👯 I’m looking to collaborate on Web Application<br>🤝 I’m looking for help with developing a chrome extension that can find Playwright locators<br>🌱 I’m currently learning chrome extension manifest v3 & flutter<br>-->
