@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Zeeshan;I'm+Software+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
-![logo](https://github.com/imerzeeshan/imerzeeshan/blob/main/github.mp4)
+![logo](https://github.com/imerzeeshan/imerzeeshan/blob/main/github.png)
 
 # 💫 About Zeeshan:
 🔭 I’m currently learning MERN Stack Web Development<br> 
