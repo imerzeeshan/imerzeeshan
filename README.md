@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Zeeshan;I'm+Software+Developer;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Zeeshan;I'm+a+MERN+Stack+Developer;E-mail+-+imerzeeshan@gmail.com;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
 ![logo](https://github.com/imerzeeshan/imerzeeshan/blob/main/github.png)
 
@@ -126,12 +126,13 @@ if (codeWorking){
 
 
 ## Current GitHub Stats 📊:
-![](https://github-readme-stats.vercel.app/api?username=imerzeeshan&theme=radical&_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imerzeeshan&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![Stats](https://github-readme-stats.vercel.app/api?username=imerzeeshan&show_icons=true&hide_border=false&theme=radical&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imerzeeshan&theme=radical&border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=imerzeeshan&theme=radical&_border=false&include_all_commits=true&count_private=true)-->
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
-![](https://github-readme-streak-stats.herokuapp.com/?user=imerzeeshan&theme=radical&hide_border=false)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=imerzeeshan&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 
@@ -143,8 +144,10 @@ if (codeWorking){
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=jolly&response=false)](https://github.com/imerzeeshan/github-twitter-card-embed)
-> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
+<!--<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=imerzeeshan&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>-->
+<!--[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=jolly&response=true)](https://github.com/imerzeeshan/github-twitter-card-embed)-->
+[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=radical&response=false)](https://github.com/imerzeeshan/github-twitter-card-embed)
+> Twitter API pricing changes Killed this tool sadly, but we are trying to find a work around, let's see.
 
 ### Thanks for Visiting my GitHub Profile!
 ---
