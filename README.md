@@ -159,7 +159,7 @@ if (codeWorking){
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
+Python   173 hrs 58 mins    █████████████████████████   29.00 %
 ```
 <!--END_SECTION:waka-->
 [![](https://visitcount.itsvg.in/api?id=imerzeeshan&pretty=true)](https://visitcount.itsvg.in)
