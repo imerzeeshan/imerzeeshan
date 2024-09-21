@@ -52,8 +52,10 @@ Here are some ideas to get you started:
 <p align="">
 <!--     <a href="https://leetcode.com/imerzeeshan/"><img width="48%" src="https://leetcode.card.workers.dev/imerzeeshan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
     <!--<a href="https://geeksforgeeks.com/imerzeeshan/"><img width="48%" src="https://geeksforgeeks.card.workers.dev/imerzeeshan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>-->
-<a href="https://leetcode.com/imerzeeshan"><p><img width="48%" src="https://leetcard.jacoblin.cool/imerzeeshan?ext=activity&theme=dark&extension=null&border=2&border_radius=8"></p></a> 
+<a href="https://leetcode.com/imerzeeshan"><p><img width="48%" src="https://leetcard.jacoblin.cool/imerzeeshan?theme=unicorn&font=Baumans&ext=activity"></p></a> 
+
 </p>
+
 
 
 ## Tech Stack 💻
