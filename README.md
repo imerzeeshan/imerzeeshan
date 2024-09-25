@@ -151,7 +151,7 @@ if (codeWorking){
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=jolly&response=false)](https://github.com/imerzeeshan/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=radical&response=false)](https://github.com/imerzeeshan/github-twitter-card-embed)
 > Twitter API pricing changes Killed this tool sadly, but we are trying to find a work around, let's see.
 <!--<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=imerzeeshan&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>-->
 <!--[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=jolly&response=true)](https://github.com/imerzeeshan/github-twitter-card-embed)-->
@@ -169,7 +169,7 @@ if (codeWorking){
 <!--START_SECTION:waka-->
 
 ```text
-Python   173 hrs 58 mins    █████████████████████████   34.00 %
+Python   173 hrs 58 mins    █████████████████████████   35.00 %
 ```
 <!--END_SECTION:waka-->
 [![](https://visitcount.itsvg.in/api?id=imerzeeshan&pretty=true)](https://visitcount.itsvg.in)
