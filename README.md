@@ -133,7 +133,7 @@ if (codeWorking){
 
 
 ## Current GitHub Stats 📊:
-![Stats](https://github-readme-stats.vercel.app/api?username=imerzeeshan&show_icons=true&hide_border=false&theme=radical&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=imerzeeshan&show_icons=true&hide_border=false&theme=radical&count_private=false&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imerzeeshan&theme=radical&border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 <!--![](https://github-readme-stats.vercel.app/api?username=imerzeeshan&theme=radical&_border=false&include_all_commits=true&count_private=true)-->
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
@@ -169,7 +169,7 @@ if (codeWorking){
 <!--START_SECTION:waka-->
 
 ```text
-Python   173 hrs 58 mins    █████████████████████████   36.00 %
+Python   173 hrs 58 mins    █████████████████████████   37.00 %
 ```
 <!--END_SECTION:waka-->
 [![](https://visitcount.itsvg.in/api?id=imerzeeshan&pretty=true)](https://visitcount.itsvg.in)
