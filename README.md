@@ -133,7 +133,7 @@ if (codeWorking){
 
 
 ## Current GitHub Stats 📊:
-![Stats](https://github-readme-stats.vercel.app/api?username=imerzeeshan&show_icons=true&hide_border=false&theme=radical&count_private=false&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=imerzeeshan&show_icons=true&hide_border=false&theme=radical&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imerzeeshan&theme=radical&border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 <!--![](https://github-readme-stats.vercel.app/api?username=imerzeeshan&theme=radical&_border=false&include_all_commits=true&count_private=true)-->
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
@@ -151,7 +151,7 @@ if (codeWorking){
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=radical&response=false)](https://github.com/imerzeeshan/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=radical&response=true)](https://github.com/imerzeeshan/github-twitter-card-embed)
 > Twitter API pricing changes Killed this tool sadly, but we are trying to find a work around, let's see.
 <!--<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=imerzeeshan&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>-->
 <!--[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=jolly&response=true)](https://github.com/imerzeeshan/github-twitter-card-embed)-->
