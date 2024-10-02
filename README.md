@@ -45,11 +45,12 @@ Here are some ideas to get you started:
 <h3 align="left">Coding Platforms:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/profile/imerzeeshan" target="_blank"><img alt="" src="https://img.shields.io/badge/Hackerrank-000?style=for-the-badge&logo=Hackerrank&logoColor=success" style="vertical-align:center" /></a>
+<a href="https://www.hackerearth.com/@imerzeeshan/" target="_blank"><img alt="" src="https://img.shields.io/badge/Hackerearth-000?style=for-the-badge&logo=Hackerearth&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://leetcode.com/u/imerzeeshan/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?style=for-the-badge&logo=Leetcode&logoColor=orange" style="vertical-align:center" /></a>
 <a href="https://www.geeksforgeeks.org/user/imerzeeshan/" target="_blank"><img alt="" src="https://img.shields.io/badge/Geeksforgeeks-000?style=for-the-badge&logo=Geeksforgeeks&logoColor=success" style="vertical-align:center" /></a>
 <a href="https://www.naukri.com/code360/profile/imerzeeshan" target="_blank"><img alt="" src="https://img.shields.io/badge/Codingninja-000?style=for-the-badge&logo=Codingninjas&logoColor=orange" style="vertical-align:center" /></a>
-<a href="https://www.hackerearth.com/@imerzeeshan/" target="_blank"><img alt="" src="https://img.shields.io/badge/Hackerearth-000?style=for-the-badge&logo=Hackerearth&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://www.codechef.com/users/imerzeeshan" target="_blank"><img alt="" src="https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://codeforces.com/profile/imerzeeshan" target="_blank"><img alt="" src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=yellow" style="vertical-align:center" /></a>
 </p>
 <p align="">
 <!--     <a href="https://leetcode.com/imerzeeshan/"><img width="48%" src="https://leetcode.card.workers.dev/imerzeeshan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
@@ -172,7 +173,7 @@ if (codeWorking){
 <!--START_SECTION:waka-->
 
 ```text
-Python   173 hrs 58 mins    █████████████████████████   38.00 %
+Python   173 hrs 58 mins    █████████████████████████   50.00 %
 ```
 <!--END_SECTION:waka-->
 [![](https://visitcount.itsvg.in/api?id=imerzeeshan&pretty=true)](https://visitcount.itsvg.in)
