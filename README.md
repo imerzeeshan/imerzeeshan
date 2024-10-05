@@ -52,11 +52,10 @@ Here are some ideas to get you started:
 <a href="https://www.codechef.com/users/imerzeeshan" target="_blank"><img alt="" src="https://img.shields.io/badge/CodeChef-000?style=for-the-badge&logo=codechef&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://codeforces.com/profile/imerzeeshan" target="_blank"><img alt="" src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=yellow" style="vertical-align:center" /></a>
 </p>
-<p align="">
-<!--     <a href="https://leetcode.com/imerzeeshan/"><img width="48%" src="https://leetcode.card.workers.dev/imerzeeshan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
     <!--<a href="https://geeksforgeeks.com/imerzeeshan/"><img width="48%" src="https://geeksforgeeks.card.workers.dev/imerzeeshan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>-->
-<a href="https://leetcode.com/imerzeeshan"><p><img width="48%" src="https://leetcard.jacoblin.cool/imerzeeshan?theme=unicorn&font=Baumans&ext=activity"></p></a> 
-
+<!--     <a href="https://leetcode.com/imerzeeshan/"><img width="48%" src="https://leetcode.card.workers.dev/imerzeeshan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
+<p align="center">
+    <a href="https://leetcode.com/imerzeeshan"><p><img width="48%" src="https://leetcard.jacoblin.cool/imerzeeshan?theme=unicorn&font=Baumans&ext=activity"></p></a> 
 </p>
 
 
@@ -161,7 +160,7 @@ if (codeWorking){
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=radical&response=true)](https://github.com/imerzeeshan/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=radical&response=false)](https://github.com/imerzeeshan/github-twitter-card-embed)
 > Twitter API pricing changes Killed this tool sadly, but we are trying to find a work around, let's see.
 <!--<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=imerzeeshan&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>-->
 <!--[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=jolly&response=true)](https://github.com/imerzeeshan/github-twitter-card-embed)-->
@@ -179,7 +178,7 @@ if (codeWorking){
 <!--START_SECTION:waka-->
 
 ```text
-Python   173 hrs 58 mins    █████████████████████████   53.00 %
+Python   173 hrs 58 mins    █████████████████████████   55.00 %
 ```
 <!--END_SECTION:waka-->
 [![](https://visitcount.itsvg.in/api?id=imerzeeshan&pretty=true)](https://visitcount.itsvg.in)
