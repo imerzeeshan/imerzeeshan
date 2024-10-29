@@ -54,12 +54,18 @@ Here are some ideas to get you started:
 </p>
     <!--<a href="https://geeksforgeeks.com/imerzeeshan/"><img width="48%" src="https://geeksforgeeks.card.workers.dev/imerzeeshan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>-->
 <!--     <a href="https://leetcode.com/imerzeeshan/"><img width="48%" src="https://leetcode.card.workers.dev/imerzeeshan?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
+
+
+<h2 align="center">Leetcode Info<h2>  
 <p align="center">
-    <a href="https://leetcode.com/imerzeeshan"><p><img width="48%" src="https://leetcard.jacoblin.cool/imerzeeshan?theme=unicorn&font=Baumans&ext=activity"></p></a> 
+    <a href="https://leetcode.com/imerzeeshan/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="150" width="150" /></a>
+<!--   <a href="https://leetcode.com/imerzeeshan/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a> -->
+<!--   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a> -->
+<!--   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a> -->
+<!--   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a> -->
 </p>
-
-
-
+<div align="center"><a href="https://leetcode.com/imerzeeshan"><p><img width="48%" src="https://leetcard.jacoblin.cool/imerzeeshan?theme=unicorn&font=Baumans&ext=activity"></p></a> </div>
+    
 ## Tech Stack 💻
 #### Languages
 <!-- ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java) -->
@@ -135,8 +141,12 @@ if (codeWorking){
 
 
 ## Current GitHub Stats 📊:
-![Stats](https://github-readme-stats.vercel.app/api?username=imerzeeshan&show_icons=true&hide_border=false&theme=radical&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imerzeeshan&theme=radical&border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=imerzeeshan&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imerzeeshan&theme=react&border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=imerzeeshan&show_icons=true&hide_border=false&theme=radical&count_private=true&include_all_commits=true)-->
 <!--<p><img src="https://github-readme-stats.vercel.app/api?username=imerzeeshan&show_icons=true&locale=en&theme=radical" alt="imerzeeshan" /></p>-->
 <!--![](https://github-readme-stats.vercel.app/api?username=imerzeeshan&theme=radical&_border=false&include_all_commits=true&count_private=true)-->
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
@@ -160,7 +170,7 @@ if (codeWorking){
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=radical&response=false)](https://github.com/imerzeeshan/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=react&response=false)](https://github.com/imerzeeshan/github-twitter-card-embed)
 > Twitter API pricing changes Killed this tool sadly, but we are trying to find a work around, let's see.
 <!--<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=imerzeeshan&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>-->
 <!--[![](https://gtce.itsvg.in/api?username=imerzeeshan&theme=jolly&response=true)](https://github.com/imerzeeshan/github-twitter-card-embed)-->
