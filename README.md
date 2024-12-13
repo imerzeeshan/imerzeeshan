@@ -153,6 +153,8 @@ if (codeWorking){
 
 ## GitHub Streaks 🔥
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=imerzeeshan&theme=radical&hide_border=false)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imerzeeshan)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=imerzeeshan" alt="GitHub Streak" /></a>-->
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 
