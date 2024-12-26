@@ -153,13 +153,15 @@ if (codeWorking){
 
 ## GitHub Streaks 🔥
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=imerzeeshan&theme=radical&hide_border=false)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imerzeeshan)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=imerzeeshan" alt="GitHub Streak" /></a>-->
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
-
 ---
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=imerzeeshan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🥇 Conribution Graph
 [![imerzeeshan](https://github-readme-activity-graph.vercel.app/graph?username=imerzeeshan&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 >⭐️ Thank you very much
 
