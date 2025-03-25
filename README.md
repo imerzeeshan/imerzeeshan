@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![logo](https://github.com/imerzeeshan/imerzeeshan/blob/main/github.png)
 
-# 💫 About Zeeshan:
+# 💫 About MD ZEESHAN:
 🔭 I’m currently learning MERN Stack Web Development<br> 
 💬 Ask me about Web Development<br>
 ⚡ Fun fact - I am lazy but smart<br>
@@ -74,9 +74,11 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![PYTHON](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=Python)
-<!-- ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown) -->
-<!-- ![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua) -->
+![PYTHON](https://img.shields.io/badge/-PYTHON-000?style=for-the-badge&logo=Python)
+<!-- ![reactjs](https://img.shields.io/badge/-REACTJS-000?style=for-the-badge&logo=react)
+![express](https://img.shields.io/badge/-EXPRESS-000?style=for-the-badge&logo=express)
+![Mongodb](https://img.shields.io/badge/-MONGODB-000?style=for-the-badge&logo=mongodb)
+![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua) -->
 
 #### JS Framework/Library 
 <!--![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)-->
