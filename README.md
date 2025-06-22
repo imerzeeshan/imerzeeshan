@@ -113,16 +113,16 @@ Here are some ideas to get you started:
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 
 #### Web Hosting
-<!--![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)-->
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 <!--![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)-->
 <!--![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)-->
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+<!--![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)-->
 
-#### CI/CD
-<!--![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)-->
+<!--#### CI/CD
+![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-<!--![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)-->
+![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)-->
 
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
