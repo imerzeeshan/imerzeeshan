@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
     <a href="https://leetcode.com/imerzeeshan/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="150" width="150" /></a>
-  <a href="https://leetcode.com/imerzeeshan/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="jyot" height="150" width="150" /></a>
-<!--   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a> -->
+  <!-- <a href="https://leetcode.com/imerzeeshan/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="jyot" height="150" width="150" /></a>
+  <a href="https://leetcode.com/imerzeeshan/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="150" width="150" /></a> -->
 <!--   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a> -->
 <!--   <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a> -->
 </p>
-<div align="center"><a href="https://leetcode.com/imerzeeshan"><p><img width="48%" src="https://leetcard.jacoblin.cool/imerzeeshan?theme=unicorn&font=Baumans&ext=activity"></p></a> </div>
+<div align="center"><a href="https://leetcode.com/imerzeeshan"><p><img width="100%" src="https://leetcard.jacoblin.cool/imerzeeshan?theme=unicorn&font=Baumans&ext=activity"></p></a> </div>
     
 ## Tech Stack 💻
 #### Languages
